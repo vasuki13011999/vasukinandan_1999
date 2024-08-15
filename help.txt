@@ -1,0 +1,15 @@
+Tracking objects in both structured and un-structured environments is one of the most challenging tasks in computer vision and artificial 
+intelligence research. This project introduces a new computer vision-based object tracking for various applications.
+object tracking has been driven by increase in power available in both hardware and software. The method uses webcam camera that performs in real
+time and also provides an image. In this method system keeps learning about the appearance of the object during real time.
+
+It is related to many real time applications like vehicle perception, video surveillance and so on. In order to overcome the issue of detection,
+tracking related to object movement and appearance. Most of the algorithm focuses on the tracking algorithm to smoothen the video sequence. 
+On the other hand, few methods use the prior available information about object shape, colour, and texture and so on.
+
+
+
+
+
+To run the code use the folloewing in the  python command
+>> python App.py

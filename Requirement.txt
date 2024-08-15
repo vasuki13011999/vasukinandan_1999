@@ -1,0 +1,7 @@
+The following Modules must be installed to run the application
+
+1. pillow - Image library (pip install pillow)
+2. opencv - Image and the video processing Library (pip install opencv-python)
+3. imutils -  Image Library (pip install imutils)
+4. numpy -  image dimensions (pip install numpy)
+5. PIL - Image processing (pip install pillow)
